@@ -1,6 +1,2 @@
 # ac1002.github.io
-123131
-31321
-2313
-213D 
-1321
+printf("Hello World!")
